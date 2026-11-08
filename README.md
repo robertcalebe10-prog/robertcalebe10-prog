@@ -1,16 +1,13 @@
-## Hi there 👋
+### 🛠️ Tecnologias e Ferramentas
 
-<!--
-**robertcalebe10-prog/robertcalebe10-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Desenvolvimento Web (Front-End & Back-End)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
-Here are some ideas to get you started:
+##### Linguagens de Programação & Mobile
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Bancos de Dados
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+##### Controle de Versão
+<img src="https://shields.io" />

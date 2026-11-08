@@ -11,7 +11,7 @@
 
 <h3 data-importer="text" align="center">🕯️About Me</h3>
 
-###
+##
 
 <p data-importer="text" align="left">- sou estudante do curso técnico integrado em Informática no IFCE, Campus Fortaleza, estou explorando o mundo do back-end, mas ainda na dúvida de qual caminho prosseguir na tecnologia.</p>
 
@@ -29,7 +29,7 @@
 
 <h3 data-importer="text" align="center">🌐 Connect With Me</h3>
 
-###
+##
 
 <br clear="both">
 
@@ -103,7 +103,7 @@
 
 <h3 data-importer="text" align="center">Statistics</h3>
 
-###
+##
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=robertcalebe10-prog&locale=pt-br&mode=weekly&theme=apprentice&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />

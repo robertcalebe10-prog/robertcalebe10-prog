@@ -2,38 +2,25 @@
 
 ##
 
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/ robert-calebe-79a10444a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-</div>
-
-##
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="300" src="https://i.pinimg.com/236x/9f/14/1e/9f141e8f67be9458a234921000d577e3.jpg?nii=t"  />
 </div>
 
-##
+###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
 ##
 
 <h3 data-importer="text" align="center">About me</h3>
 
-##
+###
 
 <p data-importer="text" align="left">- sou estudante do curso técnico integrado em Informática no IFCE, Campus Fortaleza, estou explorando o mundo do back-end, mas ainda na dúvida de qual caminho prosseguir na tecnologia.<br><br>- também possuo conhecimentos e prática de desenvolvimento web.</p>
 
-##
-
-<h3 data-importer="text" align="left"></h3>
-
-##
+###
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
@@ -41,9 +28,31 @@
 
 ##
 
-<h3 data-importer="text" align="center">Tech Stacks</h3>
+<h3 data-importer="text" align="center">Connect With Me</h3>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="www.linkedin.com/in/ robert-calebe-79a10444a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="41" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mikezzx.19" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="41" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5585999656690" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="41" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<h3 data-importer="text" align="left"></h3>
 
 ##
+
+<h3 data-importer="text" align="center">Tech Stacks</h3>
+
+###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="47" alt="react logo"  />
@@ -85,19 +94,25 @@
 
 <h3 data-importer="text" align="center">Statistics</h3>
 
-##
+###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=robertcalebe10-prog&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=robertcalebe10-prog&locale=pt-br&mode=weekly&theme=apprentice&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-##
+###
+
+<div data-importer="stats" align="center">
+</div>
+
+###
+
+<br clear="both">
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertcalebe10-prog/robertcalebe10-prog/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertcalebe10-prog/robertcalebe10-prog/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/robertcalebe10-prog/robertcalebe10-prog/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertcalebe10-prog/robertcalebe10-prog/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertcalebe10-prog/robertcalebe10-prog/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/robertcalebe10-prog/robertcalebe10-prog/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
-##
-
+###

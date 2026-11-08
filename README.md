@@ -1,14 +1,15 @@
-<h6 data-importer="text" align="center">Robert Calebe - robertttt</h6>
+<h5 data-importer="text" align="center">Robert Calebe - robertttt</h5>
 
-###
+##
+<h6 data-importer="text" align="center">Full-Stack Developer</h6>
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="300" src="https://i.pinimg.com/236x/9f/14/1e/9f141e8f67be9458a234921000d577e3.jpg?nii=t"  />
 </div>
 
-###
+##
 
-<h3 data-importer="text" align="center">About me</h3>
+<h3 data-importer="text" align="center">🕯️About Me</h3>
 
 ###
 
@@ -26,7 +27,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Connect With Me</h3>
+<h3 data-importer="text" align="center">🌐 Connect With Me</h3>
 
 ###
 
@@ -50,9 +51,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
 
-###
+##
 
-<h3 data-importer="text" align="center">Tech Stacks</h3>
+<h3 data-importer="text" align="center">💻 Tech Stacks & Tools</h3>
 
 ###
 
@@ -97,6 +98,8 @@
 ###
 
 <br clear="both">
+
+##
 
 <h3 data-importer="text" align="center">Statistics</h3>
 

@@ -1,5 +1,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
+<div lang="en" class="notranslate">
+
 ##### Desenvolvimento Web (Front-End & Back-End)
 ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Node.js](https://shields.io) ![Express](https://shields.io)
 
@@ -11,3 +13,5 @@
 
 ##### Controle de Versão
 ![Git](https://shields.io)
+
+</div>

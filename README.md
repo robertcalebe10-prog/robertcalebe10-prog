@@ -55,7 +55,7 @@
 
 <h3 data-importer="text" align="center">💻 Tech Stacks & Tools</h3>
 
-###
+##
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56" alt="react logo"  />

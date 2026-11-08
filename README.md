@@ -1,13 +1,13 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 ##### Desenvolvimento Web (Front-End & Back-End)
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Node.js](https://shields.io) ![Express](https://shields.io)
 
 ##### Linguagens de Programação & Mobile
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![C++](https://shields.io) ![Python](https://shields.io) ![Java](https://shields.io) ![Kotlin](https://shields.io) ![Swift](https://shields.io)
 
 ##### Bancos de Dados
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![SQLite](https://shields.io) ![MongoDB](https://shields.io)
 
 ##### Controle de Versão
-<img src="https://shields.io" />
+![Git](https://shields.io)
